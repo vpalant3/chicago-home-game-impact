@@ -1,0 +1,35 @@
+MatchNumber,RoundNumber,DateUtc,Location,HomeTeam,AwayTeam,Group,HomeTeamScore,AwayTeamScore,Winner,Game_Date,Is_Home,Attendance
+5,1,2025-02-23 00:30:00Z,Lower.com Field,Columbus,Chicago,,4,2,Columbus,2025-02-22,False,
+22,2,2025-03-02 01:30:00Z,Soldier Field,Chicago,D.C.,,2,2,Draw,2025-03-01,True,20372.0
+39,3,2025-03-09 01:30:00Z,Toyota Stadium,Dallas,Chicago,,1,3,Chicago,2025-03-08,False,
+47,4,2025-03-15 18:30:00Z,BMO Field,Toronto,Chicago,,1,2,Chicago,2025-03-15,False,
+73,5,2025-03-23 02:30:00Z,BC Place,Vancouver,Chicago,,1,3,Chicago,2025-03-22,False,
+81,6,2025-03-30 00:30:00Z,Soldier Field,Chicago,Montréal,,1,1,Draw,2025-03-29,True,16278.0
+96,7,2025-04-05 23:30:00Z,Sports Illustrated Stadium,New York,Chicago,,2,1,New York,2025-04-05,False,
+118,8,2025-04-13 20:30:00Z,Soldier Field,Chicago,Miami,,0,0,Draw,2025-04-13,True,62358.0
+128,9,2025-04-20 00:30:00Z,Soldier Field,Chicago,Cincinnati,,2,3,Cincinnati,2025-04-19,True,17732.0
+146,10,2025-04-27 00:30:00Z,GEODIS Park,Nashville,Chicago,,7,2,Nashville,2025-04-26,False,
+157,11,2025-05-04 00:30:00Z,Soldier Field,Chicago,Orlando,,0,0,Draw,2025-05-03,True,17876.0
+165,12,2025-05-10 18:30:00Z,Soldier Field,Chicago,Atlanta,,2,1,Chicago,2025-05-10,True,22741.0
+197,14,2025-05-17 23:30:00Z,Bank of America Stadium,Charlotte,Chicago,,1,4,Chicago,2025-05-17,False,
+221,15,2025-05-25 19:00:00Z,Yankee Stadium,New York City,Chicago,,3,1,New York City,2025-05-25,False,
+243,17,2025-05-31 23:30:00Z,Inter&Co Stadium,Orlando,Chicago,,1,3,Chicago,2025-05-31,False,
+252,18,2025-06-07 23:30:00Z,Audi Field,D.C.,Chicago,,1,7,Chicago,2025-06-07,False,
+264,19,2025-06-15 00:30:00Z,Soldier Field,Chicago,Nashville,,0,2,Nashville,2025-06-14,True,26942.0
+274,20,2025-06-26 00:30:00Z,Soldier Field,Chicago,Philadelphia,,0,1,Philadelphia,2025-06-25,True,17231.0
+289,21,2025-06-29 00:30:00Z,Soldier Field,Chicago,Charlotte,,3,2,Chicago,2025-06-28,True,17837.0
+302,22,2025-07-05 23:30:00Z,TQL Stadium,Cincinnati,Chicago,,2,1,Cincinnati,2025-07-05,False,
+320,23,2025-07-13 00:30:00Z,Soldier Field,Chicago,San Diego,,1,2,San Diego,2025-07-12,True,27631.0
+328,24,2025-07-16 23:30:00Z,Mercedes-Benz Stadium,Atlanta,Chicago,,2,2,Draw,2025-07-16,False,
+344,25,2025-07-19 23:30:00Z,Stade Saputo,Montréal,Chicago,,0,2,Chicago,2025-07-19,False,
+367,26,2025-07-27 00:30:00Z,Soldier Field,Chicago,New York,,1,0,Chicago,2025-07-26,True,29273.0
+376,27,2025-08-10 00:30:00Z,SeatGeek Stadium,Chicago,LAFC,,2,2,Draw,2025-08-09,True,19831.0
+394,28,2025-08-17 02:01:00Z,SeatGeek Stadium,Chicago,St. Louis,,3,2,Chicago,2025-08-16,True,17485.0
+405,29,2025-08-23 23:30:00Z,Subaru Park,Philadelphia,Chicago,,4,0,Philadelphia,2025-08-23,False,
+431,31,2025-09-07 00:30:00Z,SeatGeek Stadium,Chicago,New England,,3,2,Chicago,2025-09-06,True,16947.0
+441,32,2025-09-14 00:30:00Z,Soldier Field,Chicago,New York City,,1,3,New York City,2025-09-13,True,20636.0
+461,34,2025-09-21 00:30:00Z,Allianz Field,Minnesota,Chicago,,0,3,Chicago,2025-09-20,False,
+472,36,2025-09-28 00:30:00Z,Soldier Field,Chicago,Columbus,,2,0,Chicago,2025-09-27,True,23321.0
+417,36,2025-09-30 23:30:00Z,Chase Stadium,Miami,Chicago,,3,5,Chicago,2025-09-30,False,
+489,37,2025-10-05 00:30:00Z,Soldier Field,Chicago,Toronto,,2,2,Draw,2025-10-04,True,24653.0
+501,38,2025-10-18 22:00:00Z,Gillette Stadium,New England,Chicago,,2,2,Draw,2025-10-18,False,
